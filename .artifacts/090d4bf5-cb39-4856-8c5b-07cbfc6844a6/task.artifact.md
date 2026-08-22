@@ -1,0 +1,6 @@
+- [x] Update color resources in `colors.xml`
+- [x] Update theme in `themes.xml`
+- [x] Apply colors to `activity_main.xml`
+- [x] Apply colors to `activity_add_edit_task.xml`
+- [x] Apply colors to `item_task.xml`
+- [x] Verify build and visual consistency
